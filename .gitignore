@@ -3,3 +3,8 @@ build/
 dist/
 manifest.mf
 nbproject/
+out/
+.gradle/
+.idea/
+.nb-gradle/
+*.iml
